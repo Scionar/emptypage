@@ -21,7 +21,6 @@ class EmptypageController extends ControllerBase {
    */
   public function content() {
     $element = array(
-      //'#title' => 'lolo',
       '#markup' => '',
     );
 
